@@ -1,4 +1,4 @@
-# 🎬 Movie Theater Booking System
+# Movie Theater Booking System
 
 Một dự án Fullstack cho hệ thống quản lý và đặt vé rạp chiếu phim trực tuyến. Dự án bao gồm hai phần độc lập: **Backend** (RESTful API với Java Spring Boot) và **Frontend** (Giao diện người dùng với ReactJS & Vite).
 
